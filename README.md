@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flippzor
 - 👀 I’m interested in HPC 
-- 🌱 I’m currently learning Scala for my master thesis
+- 🌱 I’m currently looking for something to do
 
 
 <!---
