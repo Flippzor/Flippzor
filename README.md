@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flippzor
+- 👋 Hi, I’m Filippa D Lidman
 - 👀 I’m interested in HPC 
 - 🌱 I’m currently looking for something to do
 
